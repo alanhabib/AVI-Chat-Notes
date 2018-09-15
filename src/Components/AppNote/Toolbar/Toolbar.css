@@ -1,0 +1,38 @@
+/* .clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.clearfix {
+  display: inline-block;
+}
+/* start commented backslash hack \*/
+
+/* * html .clearfix {
+  height: 1%;
+}
+.clearfix {
+  display: block;
+}
+close commented backslash hack */
+
+/* .header {
+  background: #596bcc;
+  color: #fff;
+  padding: 10px 5%;
+  box-shadow: 0 1px 3px #999;
+  float: left;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+} */
+
+/* .header h1 {
+  margin: 0;
+  font-size: 20px;
+  float: left;
+} */
